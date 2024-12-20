@@ -12,211 +12,20 @@
         <controls>
             <control>
                 <group>[Channel1]</group>
-                <key>TouchOSC.setLoopLength</key>
-                <status>0xB2</status>
-                <midino>0x00</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.setLoopLength</key>
-                <status>0xB2</status>
-                <midino>0x10</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.resetTempo</key>
-                <status>0xB0</status>
-                <midino>0x39</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.resetTempo</key>
-                <status>0xB0</status>
-                <midino>0x3E</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-            
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.shift</key>
-                <status>0xB3</status>
-                <midino>0x08</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x00</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x01</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x02</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x03</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x04</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x05</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x06</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.hotcue</key>
-                <status>0xB3</status>
-                <midino>0x07</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.beatjump</key>
-                <status>0xB3</status>
-                <midino>0x09</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.beatjump</key>
-                <status>0xB3</status>
-                <midino>0x0A</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.beatjump</key>
-                <status>0xB3</status>
-                <midino>0x0B</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.beatjump</key>
-                <status>0xB3</status>
-                <midino>0x0C</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-
-
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.startLoop</key>
-                <status>0xB2</status>
-                <midino>0x01</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.startLoop</key>
-                <status>0xB2</status>
-                <midino>0x11</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-
-            <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.endLoop</key>
-                <status>0xB2</status>
-                <midino>0x02</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.endLoop</key>
-                <status>0xB2</status>
-                <midino>0x12</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            
-            <control>
-                <group>[Channel1]</group>
                 <key>play</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <description>MIDI Learned from 46 messages.</description>
                 <status>0xB0</status>
-                <midino>0x01</midino>
+                <midino>0x00</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>hotcue_1_activate</key>
+                <description>MIDI Learned from 20 messages.</description>
+                <status>0xB3</status>
+                <midino>0x00</midino>
                 <options>
                     <normal/>
                 </options>
@@ -226,7 +35,57 @@
                 <key>cue_default</key>
                 <description>MIDI Learned from 2 messages.</description>
                 <status>0xB0</status>
+                <midino>0x01</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>hotcue_2_activate</key>
+                <description>MIDI Learned from 4 messages.</description>
+                <status>0xB3</status>
+                <midino>0x01</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>sync_enabled</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
                 <midino>0x02</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>hotcue_3_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB3</status>
+                <midino>0x02</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>rate</key>
+                <description>MIDI Learned from 305 messages.</description>
+                <status>0xB0</status>
+                <midino>0x03</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>hotcue_4_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB3</status>
+                <midino>0x03</midino>
                 <options>
                     <normal/>
                 </options>
@@ -242,91 +101,11 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>rate</key>
-                <description>MIDI Learned from 236 messages.</description>
-                <status>0xB0</status>
-                <midino>0x05</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[EqualizerRack1_[Channel1]_Effect1]</group>
-                <key>parameter3</key>
-                <description>MIDI Learned from 228 messages.</description>
-                <status>0xB0</status>
-                <midino>0x06</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[EqualizerRack1_[Channel1]_Effect1]</group>
-                <key>parameter2</key>
-                <description>MIDI Learned from 223 messages.</description>
-                <status>0xB0</status>
-                <midino>0x08</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[EqualizerRack1_[Channel1]_Effect1]</group>
-                <key>parameter1</key>
-                <description>MIDI Learned from 228 messages.</description>
-                <status>0xB0</status>
-                <midino>0x09</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[EqualizerRack1_[Channel2]_Effect1]</group>
-                <key>parameter3</key>
-                <description>MIDI Learned from 231 messages.</description>
-                <status>0xB0</status>
-                <midino>0x0A</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[EqualizerRack1_[Channel2]_Effect1]</group>
-                <key>parameter2</key>
-                <description>MIDI Learned from 317 messages.</description>
-                <status>0xB0</status>
-                <midino>0x0B</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[EqualizerRack1_[Channel2]_Effect1]</group>
-                <key>parameter1</key>
-                <description>MIDI Learned from 224 messages.</description>
-                <status>0xB0</status>
-                <midino>0x0C</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[QuickEffectRack1_[Channel1]]</group>
-                <key>super1</key>
-                <description>MIDI Learned from 262 messages.</description>
-                <status>0xB0</status>
-                <midino>0x0D</midino>
-                <options>
-                    <normal/>
-                </options>
-            </control>
-            <control>
-                <group>[QuickEffectRack1_[Channel2]]</group>
-                <key>super1</key>
-                <description>MIDI Learned from 238 messages.</description>
-                <status>0xB0</status>
-                <midino>0x0E</midino>
+                <group>[Channel2]</group>
+                <key>hotcue_1_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB3</status>
+                <midino>0x04</midino>
                 <options>
                     <normal/>
                 </options>
@@ -334,9 +113,19 @@
             <control>
                 <group>[Master]</group>
                 <key>crossfader</key>
-                <description>MIDI Learned from 309 messages.</description>
+                <description>MIDI Learned from 297 messages.</description>
                 <status>0xB0</status>
-                <midino>0x0F</midino>
+                <midino>0x05</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>hotcue_2_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB3</status>
+                <midino>0x05</midino>
                 <options>
                     <normal/>
                 </options>
@@ -344,9 +133,19 @@
             <control>
                 <group>[Channel2]</group>
                 <key>rate</key>
-                <description>MIDI Learned from 231 messages.</description>
+                <description>MIDI Learned from 288 messages.</description>
                 <status>0xB0</status>
-                <midino>0x12</midino>
+                <midino>0x06</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>hotcue_3_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB3</status>
+                <midino>0x06</midino>
                 <options>
                     <normal/>
                 </options>
@@ -354,9 +153,19 @@
             <control>
                 <group>[Channel1]</group>
                 <key>volume</key>
-                <description>MIDI Learned from 219 messages.</description>
+                <description>MIDI Learned from 340 messages.</description>
                 <status>0xB0</status>
-                <midino>0x13</midino>
+                <midino>0x07</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>hotcue_4_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB3</status>
+                <midino>0x07</midino>
                 <options>
                     <normal/>
                 </options>
@@ -364,19 +173,28 @@
             <control>
                 <group>[Channel2]</group>
                 <key>volume</key>
-                <description>MIDI Learned from 230 messages.</description>
+                <description>MIDI Learned from 279 messages.</description>
                 <status>0xB0</status>
-                <midino>0x14</midino>
+                <midino>0x08</midino>
                 <options>
                     <normal/>
                 </options>
             </control>
             <control>
+                <group>[Channel1]</group>
+                <key>TouchOSC.shift</key>
+                <status>0xB3</status>
+                <midino>0x08</midino>
+                <options>
+                    <script-binding/>
+                </options>
+            </control>
+            <control>
                 <group>[Channel2]</group>
                 <key>play</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <description>MIDI Learned from 10 messages.</description>
                 <status>0xB0</status>
-                <midino>0x15</midino>
+                <midino>0x09</midino>
                 <options>
                     <normal/>
                 </options>
@@ -384,9 +202,9 @@
             <control>
                 <group>[Channel2]</group>
                 <key>cue_default</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <description>MIDI Learned from 36 messages.</description>
                 <status>0xB0</status>
-                <midino>0x16</midino>
+                <midino>0x0A</midino>
                 <options>
                     <normal/>
                 </options>
@@ -396,7 +214,7 @@
                 <key>keylock</key>
                 <description>MIDI Learned from 1 messages.</description>
                 <status>0xB0</status>
-                <midino>0x17</midino>
+                <midino>0x0B</midino>
                 <options>
                     <switch/>
                 </options>
@@ -406,7 +224,7 @@
                 <key>keylock</key>
                 <description>MIDI Learned from 1 messages.</description>
                 <status>0xB0</status>
-                <midino>0x18</midino>
+                <midino>0x0C</midino>
                 <options>
                     <switch/>
                 </options>
@@ -416,7 +234,117 @@
                 <key>enabled</key>
                 <description>MIDI Learned from 1 messages.</description>
                 <status>0xB0</status>
-                <midino>0x19</midino>
+                <midino>0x0D</midino>
+                <options>
+                    <switch/>
+                </options>
+            </control>
+            <control>
+                <group>[EffectRack1_EffectUnit1_Effect2]</group>
+                <key>meta</key>
+                <description>MIDI Learned from 83 messages.</description>
+                <status>0xB0</status>
+                <midino>0x0E</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[EffectRack1_EffectUnit1_Effect1]</group>
+                <key>enabled</key>
+                <description>MIDI Learned from 1 messages.</description>
+                <status>0xB0</status>
+                <midino>0x0F</midino>
+                <options>
+                    <switch/>
+                </options>
+            </control>
+            <control>
+                <group>[EffectRack1_EffectUnit1_Effect1]</group>
+                <key>meta</key>
+                <description>MIDI Learned from 333 messages.</description>
+                <status>0xB0</status>
+                <midino>0x10</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[EffectRack1_EffectUnit2_Effect2]</group>
+                <key>enabled</key>
+                <description>MIDI Learned from 1 messages.</description>
+                <status>0xB0</status>
+                <midino>0x11</midino>
+                <options>
+                    <switch/>
+                </options>
+            </control>
+            <control>
+                <group>[EffectRack1_EffectUnit2_Effect2]</group>
+                <key>meta</key>
+                <description>MIDI Learned from 313 messages.</description>
+                <status>0xB0</status>
+                <midino>0x12</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[EffectRack1_EffectUnit2_Effect1]</group>
+                <key>enabled</key>
+                <description>MIDI Learned from 1 messages.</description>
+                <status>0xB0</status>
+                <midino>0x13</midino>
+                <options>
+                    <switch/>
+                </options>
+            </control>
+            <control>
+                <group>[EffectRack1_EffectUnit2_Effect1]</group>
+                <key>meta</key>
+                <description>MIDI Learned from 219 messages.</description>
+                <status>0xB0</status>
+                <midino>0x14</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>pfl</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x15</midino>
+                <options>
+                    <switch/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>pfl</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x16</midino>
+                <options>
+                    <switch/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>sync_enabled</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x17</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>keylock</key>
+                <description>MIDI Learned from 1 messages.</description>
+                <status>0xB0</status>
+                <midino>0x18</midino>
                 <options>
                     <switch/>
                 </options>
@@ -452,6 +380,15 @@
                 </options>
             </control>
             <control>
+                <group>[Channel1]</group>
+                <key>TouchOSC.resetTempo</key>
+                <status>0xB0</status>
+                <midino>0x1C</midino>
+                <options>
+                    <script-binding/>
+                </options>
+            </control>
+            <control>
                 <group>[EffectRack1_EffectUnit2_Effect2]</group>
                 <key>enabled</key>
                 <description>MIDI Learned from 1 messages.</description>
@@ -472,15 +409,6 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>TouchOSC.nudge</key>
-                <status>0xB1</status>
-                <midino>0x1E</midino>
-                <options>
-                    <script-binding/>
-                </options>
-            </control>
-            <control>
                 <group>[EffectRack1_EffectUnit2_Effect1]</group>
                 <key>enabled</key>
                 <description>MIDI Learned from 1 messages.</description>
@@ -488,15 +416,6 @@
                 <midino>0x1F</midino>
                 <options>
                     <switch/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>TouchOSC.nudge</key>
-                <status>0xB1</status>
-                <midino>0x1F</midino>
-                <options>
-                    <script-binding/>
                 </options>
             </control>
             <control>
@@ -519,38 +438,18 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>pfl</key>
-                <description>MIDI Learned from 1 messages.</description>
-                <status>0xB0</status>
-                <midino>0x21</midino>
-                <options>
-                    <switch/>
-                </options>
-            </control>
-            <control>
                 <group>[Channel2]</group>
-                <key>TouchOSC.seek</key>
-                <status>0xB1</status>
+                <key>TouchOSC.resetTempo</key>
+                <status>0xB0</status>
                 <midino>0x21</midino>
                 <options>
                     <script-binding/>
                 </options>
             </control>
             <control>
-                <group>[Channel2]</group>
-                <key>pfl</key>
-                <description>MIDI Learned from 1 messages.</description>
-                <status>0xB0</status>
-                <midino>0x22</midino>
-                <options>
-                    <switch/>
-                </options>
-            </control>
-            <control>
-                <group>[Channel2]</group>
-                <key>sync_enabled</key>
-                <description>MIDI Learned from 1 messages.</description>
+                <group>[QuickEffectRack1_[Channel1]]</group>
+                <key>super1</key>
+                <description>MIDI Learned from 318 messages.</description>
                 <status>0xB0</status>
                 <midino>0x23</midino>
                 <options>
@@ -558,9 +457,9 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>loop_double</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <group>[EqualizerRack1_[Channel1]_Effect1]</group>
+                <key>parameter1</key>
+                <description>MIDI Learned from 392 messages.</description>
                 <status>0xB0</status>
                 <midino>0x24</midino>
                 <options>
@@ -568,9 +467,9 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>loop_halve</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <group>[EqualizerRack1_[Channel1]_Effect1]</group>
+                <key>parameter2</key>
+                <description>MIDI Learned from 248 messages.</description>
                 <status>0xB0</status>
                 <midino>0x25</midino>
                 <options>
@@ -578,9 +477,19 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>beatloop_activate</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <group>[EqualizerRack1_[Channel1]_Effect1]</group>
+                <key>parameter3</key>
+                <description>MIDI Learned from 358 messages.</description>
+                <status>0xB0</status>
+                <midino>0x26</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[EqualizerRack1_[Channel2]_Effect1]</group>
+                <key>parameter3</key>
+                <description>MIDI Learned from 252 messages.</description>
                 <status>0xB0</status>
                 <midino>0x27</midino>
                 <options>
@@ -588,9 +497,9 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>reloop_toggle</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <group>[EqualizerRack1_[Channel2]_Effect1]</group>
+                <key>parameter2</key>
+                <description>MIDI Learned from 94 messages.</description>
                 <status>0xB0</status>
                 <midino>0x28</midino>
                 <options>
@@ -598,9 +507,9 @@
                 </options>
             </control>
             <control>
-                <group>[Channel2]</group>
-                <key>loop_double</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <group>[EqualizerRack1_[Channel2]_Effect1]</group>
+                <key>parameter1</key>
+                <description>MIDI Learned from 374 messages.</description>
                 <status>0xB0</status>
                 <midino>0x29</midino>
                 <options>
@@ -608,9 +517,9 @@
                 </options>
             </control>
             <control>
-                <group>[Channel2]</group>
-                <key>loop_halve</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <group>[QuickEffectRack1_[Channel2]]</group>
+                <key>super1</key>
+                <description>MIDI Learned from 307 messages.</description>
                 <status>0xB0</status>
                 <midino>0x2A</midino>
                 <options>
@@ -618,8 +527,18 @@
                 </options>
             </control>
             <control>
-                <group>[Channel2]</group>
-                <key>beatloop_activate</key>
+                <group>[Channel1]</group>
+                <key>loop_in</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x2B</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>loop_out</key>
                 <description>MIDI Learned from 2 messages.</description>
                 <status>0xB0</status>
                 <midino>0x2C</midino>
@@ -629,7 +548,7 @@
             </control>
             <control>
                 <group>[Channel2]</group>
-                <key>reloop_toggle</key>
+                <key>loop_in</key>
                 <description>MIDI Learned from 2 messages.</description>
                 <status>0xB0</status>
                 <midino>0x2D</midino>
@@ -638,8 +557,8 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>intro_start_activate</key>
+                <group>[Channel2]</group>
+                <key>loop_out</key>
                 <description>MIDI Learned from 2 messages.</description>
                 <status>0xB0</status>
                 <midino>0x2E</midino>
@@ -649,8 +568,8 @@
             </control>
             <control>
                 <group>[Channel1]</group>
-                <key>hotcue_1_activate</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <key>reloop_toggle</key>
+                <description>MIDI Learned from 1 messages.</description>
                 <status>0xB0</status>
                 <midino>0x2F</midino>
                 <options>
@@ -658,9 +577,9 @@
                 </options>
             </control>
             <control>
-                <group>[Channel1]</group>
-                <key>hotcue_2_activate</key>
-                <description>MIDI Learned from 2 messages.</description>
+                <group>[Channel2]</group>
+                <key>reloop_toggle</key>
+                <description>MIDI Learned from 1 messages.</description>
                 <status>0xB0</status>
                 <midino>0x30</midino>
                 <options>
@@ -668,8 +587,8 @@
                 </options>
             </control>
             <control>
-                <group>[Channel2]</group>
-                <key>intro_start_activate</key>
+                <group>[Channel1]</group>
+                <key>loop_halve</key>
                 <description>MIDI Learned from 2 messages.</description>
                 <status>0xB0</status>
                 <midino>0x31</midino>
@@ -678,8 +597,8 @@
                 </options>
             </control>
             <control>
-                <group>[Channel2]</group>
-                <key>hotcue_1_activate</key>
+                <group>[Channel1]</group>
+                <key>loop_double</key>
                 <description>MIDI Learned from 2 messages.</description>
                 <status>0xB0</status>
                 <midino>0x32</midino>
@@ -689,10 +608,160 @@
             </control>
             <control>
                 <group>[Channel2]</group>
-                <key>hotcue_2_activate</key>
+                <key>loop_halve</key>
                 <description>MIDI Learned from 2 messages.</description>
                 <status>0xB0</status>
                 <midino>0x33</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>loop_double</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x34</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>rate_temp_down</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x39</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>rate_temp_up</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x3A</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>rate_temp_down</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x3B</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>rate_temp_up</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x3C</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>beatloop_4_toggle</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x3D</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>beatloop_4_toggle</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x3E</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>beatlooproll_0.125_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x3F</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>beatlooproll_1_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x40</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>beatlooproll_0.5_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x41</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel1]</group>
+                <key>beatlooproll_0.25_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x42</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>beatlooproll_0.125_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x43</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>beatlooproll_1_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x44</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>beatlooproll_0.5_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x45</midino>
+                <options>
+                    <normal/>
+                </options>
+            </control>
+            <control>
+                <group>[Channel2]</group>
+                <key>beatlooproll_0.25_activate</key>
+                <description>MIDI Learned from 2 messages.</description>
+                <status>0xB0</status>
+                <midino>0x46</midino>
                 <options>
                     <normal/>
                 </options>

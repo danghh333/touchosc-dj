@@ -1,5 +1,5 @@
 # touchosc-dj
-Scripts and layouts for using TouchOSC as a DJ controller for Mixxx
+[Customized from grufkork] Scripts and layouts for using TouchOSC as a DJ controller for Mixxx 
 
 ## Usage
 
@@ -11,16 +11,6 @@ First, get TouchOSC for your tablet from the appropriate app store (about 10$). 
 ### To add the mappings to Mixxx:
 
 Throw `TouchOSC.midi.xml` and `Grufkork-TouchOSC-scripts.js` into `AppData/Local/Mixxx/controllers`. Then open Mixxx, go to the settings > controllers > TouchOSC Bridge. Under "Load Mapping", choose `TouchOSC`. Apply, and you should be ready to go!
-
-### Layout
-I have only added what I regularly use, but it should be more than plenty to mix some choons!
-![Layout](https://github.com/grufkork/touchosc-dj/blob/main/layout.png?raw=true)
-
-#### Shift functions
-Holding shift alters the function of some buttons:
-
-- Holding shift and pressing a hotcue removes it.
-- While shift is held, the gradual tempo reset button will make the tempo return 3x faster than usual. Useful for drastic tempo transitions.
 
 ## Etcetera
 
